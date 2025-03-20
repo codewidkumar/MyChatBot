@@ -1,0 +1,14 @@
+C:\Personal\Application\MyChatBot\bin\Debug\net9.0\MyChatBot.exe
+C:\Personal\Application\MyChatBot\bin\Debug\net9.0\MyChatBot.deps.json
+C:\Personal\Application\MyChatBot\bin\Debug\net9.0\MyChatBot.runtimeconfig.json
+C:\Personal\Application\MyChatBot\bin\Debug\net9.0\MyChatBot.dll
+C:\Personal\Application\MyChatBot\bin\Debug\net9.0\MyChatBot.pdb
+C:\Personal\Application\MyChatBot\obj\Debug\net9.0\MyChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Application\MyChatBot\obj\Debug\net9.0\MyChatBot.AssemblyInfoInputs.cache
+C:\Personal\Application\MyChatBot\obj\Debug\net9.0\MyChatBot.AssemblyInfo.cs
+C:\Personal\Application\MyChatBot\obj\Debug\net9.0\MyChatBot.csproj.CoreCompileInputs.cache
+C:\Personal\Application\MyChatBot\obj\Debug\net9.0\MyChatBot.dll
+C:\Personal\Application\MyChatBot\obj\Debug\net9.0\refint\MyChatBot.dll
+C:\Personal\Application\MyChatBot\obj\Debug\net9.0\MyChatBot.pdb
+C:\Personal\Application\MyChatBot\obj\Debug\net9.0\MyChatBot.genruntimeconfig.cache
+C:\Personal\Application\MyChatBot\obj\Debug\net9.0\ref\MyChatBot.dll
